@@ -10,3 +10,6 @@ By combining these datasets, I want to gain a better understanding of the perfor
 I implemented various classification techniques such as logistic regression, decision trees, and neural networks, and feature extraction methods to analyze the data. In addition, I use various evaluation metrics such as accuracy, precision, recall, and F1 score to compare the performance of the models and select the best one.
 
 The goal of this project is not only to predict the winner of the 2022 World Cup but also to provide an in-depth analysis of the performance of different teams and the factors that contribute to their success. By analyzing the historical data, I tried to gain insights that can help in understanding the dynamics of the tournament and the factors that influence the outcome.
+
+[1] https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
+[2] https://www.kaggle.com/datasets/cashncarry/fifaworldranking
