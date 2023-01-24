@@ -2,8 +2,9 @@ The World Cup is one of the most widely followed sports events in the world and 
 
 Two datasets were used in this study.
 
- -The first dataset contains match scores from 1982 to present, including information about the teams, scores, and tournament stage[1]
- -The second dataset contains FIFA rank changes, which provides information about the overall performance of teams throughout the years[2]
+ - The first dataset contains match scores from 1982 to present, including information about the teams, scores, and tournament stage[1]
+ 
+ - The second dataset contains FIFA rank changes, which provides information about the overall performance of teams throughout the years[2]
 
 By combining these datasets, I want to gain a better understanding of the performance of teams in the World Cup and their chances of winning the tournament.
 
