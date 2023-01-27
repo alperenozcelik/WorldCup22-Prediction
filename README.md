@@ -15,3 +15,4 @@ The goal of this project is not only to predict the winner of the 2022 World Cup
 [1] https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
 
 [2] https://www.kaggle.com/datasets/cashncarry/fifaworldranking
+
